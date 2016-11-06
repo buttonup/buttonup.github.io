@@ -11,5 +11,3 @@ We have formats for days:
 - [Photoshop]()
 
 And some words about these days of formats.
-
-TODO: make sure there's a link to the rss feed.
