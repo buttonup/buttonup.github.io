@@ -17,7 +17,7 @@ Buttons are made in three steps: by printing or drawing in a circle on paper, cu
 
 We have the machine, you have the design!
 
-If you make the design yourself, email it to us at <>. [Please use our default template!](/template)
+If you make the design yourself, email it to us at [buttonup@riseup.net](mailto:buttonup@riseup.net). Please use our [default template!](/template)
 
 If you don't feel like your design chops are up to the task, email us the idea you have with as much visual and emotional information as you can, and we'll make the design for you.
 
