@@ -31,4 +31,4 @@ stories of the firehouse. Since then it's become a punk house housing DIY
 fiends, noise musicians, dozens of guitars, some anarchists, good vibes, and
 a real-feeling community. Living there was and is dope.
 
-![Firehouse button](/assets/firehouse.jpg)
+![Firehouse button](/img/firehouse.jpg)
