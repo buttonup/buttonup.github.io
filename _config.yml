@@ -1,6 +1,6 @@
 # Site settings
 title: Button Up!
-header-img: img/home-bg.jpg
+header-img: assets/home-bg.jpg
 email: buttonup@riseup.net
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""

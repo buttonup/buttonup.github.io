@@ -14,4 +14,4 @@ He rips dry wall out until he can fit his whole arm down to the base of the insi
 
 This was the moment the firehouse became a squat, and that was one of many origin stories of the firehouse. Since then it's become a punk house housing DIY fiends, noise musicians, dozens of guitars, some anarchists, good vibes, and a real-feeling community. Living there was and is dope.
 
-![A button of a silhouette of a flaming heart within a silhouette of a house is pinned onto a backpack pocket amongst pens](/img/firehouse.jpg)
+![A button of a silhouette of a flaming heart within a silhouette of a house is pinned onto a backpack pocket amongst pens](/assets/firehouse.jpg)
